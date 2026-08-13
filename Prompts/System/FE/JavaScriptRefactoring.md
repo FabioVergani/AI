@@ -456,6 +456,3 @@ Fire-and-forget work requires a documented lifecycle, a rejection path, and canc
 **Errors.** 
 Catch only to recover, add useful context, perform cleanup, or preserve the contract.
 Never swallow errors.
-
-
-Chiuso in isolamento. Il lavoro restante è il confronto clausola per clausola con l’Engineering Agent reale.
